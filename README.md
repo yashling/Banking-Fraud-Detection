@@ -73,11 +73,16 @@ XGBoost, after tuning, emerged as the top performer:
 
 ## 📊 Evaluation Visuals
 
-### 🔹 ROC Curve – XGBoost
-![XGBoost ROC Curve](xgboost_plot_1.png)
+
 
 ### 🔹 Confusion Matrix – XGBoost
-![XGBoost Confusion Matrix](xgboost_plot_2.png)
+![XGBoost Confusion Matrix](625f5092-b864-4029-aa42-7aaa0b3f650d.png)
+
+### 🔹 ROC Curve – XGBoost
+![XGBoost ROC Curve](2d2b05e1-0101-46a9-82e3-eeebb678cd17.png)
+
+### 🔹 Precision Recall Curve – XGBoost
+![XGBoost Confusion Matrix](24fe0089-9983-4862-9073-e609690f8169.png)
 
 ---
 
